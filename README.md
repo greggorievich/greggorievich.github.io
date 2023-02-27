@@ -1,2 +1,2 @@
 # greggorievich.github.io
-github.io page
+Coming Soon: Hopefully useful tech info for dumies like me. Once I learn how to GitHub. 
