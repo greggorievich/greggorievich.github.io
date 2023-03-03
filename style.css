@@ -12,20 +12,24 @@ body {
 a {
   color: #58a6ff;
 }
+
 nav {
-  display: block;
+  display: flex;
   width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #555;
 }
+
 nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: #555;
+  display: flex;
 }
 
 nav li {
-  display: inline-block;
+  display: block;
 }
 
 nav a {
@@ -34,6 +38,7 @@ nav a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  flex: 1;
 }
 
 nav a:hover {
