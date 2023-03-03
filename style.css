@@ -1,12 +1,12 @@
 body {
   background-color: #1d1517;
   color: #c9d1d9;
-  padding: 0 20px;
+  padding: 0 30px;
   width: 100%;
 }
 
 .content {
-  padding: 20px 0;
+  padding: 30px 0;
 }
 
 a {
@@ -19,7 +19,7 @@ a {
 
 nav {
   display: flex;
-  width: 100%;
+  width: 90%;
   justify-content: space-between;
   align-items: center;
   background-color: #555;
