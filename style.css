@@ -11,7 +11,10 @@ body {
 a {
   color: #58a6ff;
 }
-
+nav {
+  display: block;
+  width: 100%;
+}
 nav ul {
   list-style-type: none;
   margin: 0;
