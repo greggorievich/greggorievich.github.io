@@ -14,12 +14,12 @@ a {
 }
 
 #header-nav {
-  width: 100%;
+  width: 90%;
 }
 
 nav {
   display: flex;
-  width: 90%;
+  width: 80%;
   justify-content: space-between;
   align-items: center;
   background-color: #555;
@@ -40,7 +40,7 @@ nav a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 9px 11px;
   text-decoration: none;
   flex: 1;
 }
