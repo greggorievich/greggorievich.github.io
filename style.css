@@ -1,5 +1,5 @@
 body {
-  background-color: #0d1117;
+  background-color: #1d1517;
   color: #c9d1d9;
 }
 
@@ -12,7 +12,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #555;
 }
 
 nav li {
@@ -28,5 +28,5 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #111;
+  background-color: #333;
 }
