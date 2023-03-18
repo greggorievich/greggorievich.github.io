@@ -2,8 +2,8 @@
 title:               'greggorievich''s house of confusion'
 tagline:             'Tech Meets Redneck'
 description:         'Documenting whatever I feel like since I published the site.'
-url:                 https://greggorievich.github.io/house-of-confusion/
-baseurl:             'greggorievich.github.io'
+url:                 https://greggorievich.github.io
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
