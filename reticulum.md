@@ -11,4 +11,4 @@ A particular focus of my efforts here is on beginner friendly guides for Reticul
 
 I am independent from the creator of the project, but working on this with their permission and encouragement. I think there's significant value in an openly available low cost secure off grid messaging platform, and if I'm starting this adventure from scratch I thought I might as well document it. 
 
-Main site for the project: [unsigned.io](https://unsigned.io/)
+Main sites for the project: [unsigned.io](https://unsigned.io/) and [reticulum.network](https://reticulum.network/)
