@@ -29,7 +29,7 @@ As such, my goal when writing public guides is to make as few assumptions like t
 
 Where someone else might say something like "the easiest way to install my program is via Chocolatey" and or possibly provide the command to run:
 
-    choco install coolprogram
+`choco install coolprogram`
 
 That might leave you with a lot of questions. Why isn't that command running? What the heck is Chocolatey? 
 
