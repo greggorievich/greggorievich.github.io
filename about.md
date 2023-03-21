@@ -47,6 +47,8 @@ Built on [Lanyon](http://lanyon.getpoole.com)
 
 Source on [GitHub](https://github.com/greggorievich?tab=repositories)
 
+Credit to [Ben Balter](https://ben.balter.com/2014/03/13/pages-anchor-links/) for the nonsense used to make headers into usable links. 
+
 ## About This Human
 
 Hi! I'm Gregg. I don't think I can make an "I am a..." sort of statement because I switch up hobbies like crazy and I'm into a ton of things at any given time. 
