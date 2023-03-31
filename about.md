@@ -53,4 +53,4 @@ Credit to [Ben Balter](https://ben.balter.com/2014/03/13/pages-anchor-links/) fo
 
 Hi! I'm Gregg. I don't think I can make an "I am a..." sort of statement because I switch up hobbies like crazy and I'm into a ton of things at any given time. 
 
-I imagine at some point I'll have to figure out a way to be contactable for feedback, but I'm not quite there yet. (Can GitHub serve that purpose? I'd ask you to let me know but I'm not contactable, so I guess I'm just on my own for the moment.)
+I imagine at some point I'll have to figure out a way to be more contactable for feedback, but I'm not quite there yet. For the time being, please use the [GitHub Discussions forum](https://github.com/greggorievich/greggorievich.github.io/discussions) for this repository. This doesn't meet my normal preference for accessibility (I don't want what I publish to be limited to the sort of person who has a GitHub account), but at least the Discussions should be viewable by everyone. 
