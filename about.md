@@ -41,11 +41,11 @@ I don't want you to have to work through a bunch of errors that were just oversi
 
 That's the hope, anyway. I've done a fair bit of technical writing and I think something for wide public consumption should be achievable. 
 
-### Source
+### Source/Credits
 
-Built on [Lanyon](http://lanyon.getpoole.com)
+Source on [GitHub](https://github.com/greggorievich?tab=repositories).
 
-Source on [GitHub](https://github.com/greggorievich?tab=repositories)
+Built on [Lanyon](http://lanyon.getpoole.com) theme.
 
 Credit to [Ben Balter](https://ben.balter.com/2014/03/13/pages-anchor-links/) for the nonsense used to make headers into usable links. 
 
