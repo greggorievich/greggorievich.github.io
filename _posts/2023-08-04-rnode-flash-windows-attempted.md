@@ -18,7 +18,7 @@ I'll be roughly following the [Build Recipe](https://unsigned.io/guides/2023_01_
 
 I've set up an old laptop (A Dell Vostro V131, circa 2011) to dual-boot Windows and Ubuntu. The only things I've installed on it so far are Windows Updates and drivers, FireFox, Greenshot (for the purposes of documentation), and Syncthing (to easily get the screenshots onto my computer). If I need to install anything else, it will be noted. 
 
-## Suppliesh
+## Supplies
 
 The build recipe dictates all of the items required to completely build a portable RNode, but for the purposes of the software setup, you'll need:  
 * A computer, in this case we're using Windows 10 Pro x64.
